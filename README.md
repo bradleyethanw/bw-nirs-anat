@@ -1,5 +1,5 @@
 # bw-nirs-anat
-Bradley White, PhD
+Bradley White, PhD  
 February 2024
 
 Some preprocessing tools for analyzing real-world head coordinates from a 3D electromagnetic digitizer for functional near-infrared spectroscopy (fNIRS), but could also be used for electroencephalography (EEG) or any other landmark-based neuroimaging method.
