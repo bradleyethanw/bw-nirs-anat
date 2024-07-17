@@ -9,7 +9,7 @@ Dependencies:
 - SPM 8, https://www.fil.ion.ucl.ac.uk/spm/software/spm8/
 
 Publications:
-- White B, Submitted 2023. Neural networks for degraded speech processing.
-- White B, 2023. Hierarchical neural networks for degraded speech processing. Advances and Perspectives in Auditory Neuroscience, Washington, DC.
-- White B, Langdon C, 2021. The cortical organization of listening effort: New insight from functional near-infrared spectroscopy. _NeuroImage, 240_, 118324.
-- White B, 2021. fNIRS "illuminates" cortical organization for listening effort vs. ease [original artwork]. _NeuroImage, 238_.
+- <ins>White B</ins>, Submitted 2023. _Neural networks for degraded speech processing_.
+- <ins>White B</ins>, 2023. _Hierarchical neural networks for degraded speech processing_. Advances and Perspectives in Auditory Neuroscience, Washington, DC. [20231110-apan-networks-r.pdf](https://bradleyethanw.github.io/bw-posters/20231110-apan-networks-r.pdf)
+- <ins>White B</ins>, Langdon C, 2021. The cortical organization of listening effort: New insight from functional near-infrared spectroscopy. _NeuroImage, 240_, 118324.
+- <ins>White B</ins>, 2021. fNIRS "illuminates" cortical organization for listening effort vs. ease [original artwork]. _NeuroImage, 238_.
